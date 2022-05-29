@@ -1,3 +1,5 @@
+# 資工/資管碩士在職專班懶人包
+
 | 學校系所 | 工作年資 | 筆試 | 資料審查 | 面試 | 相關連結 |
 | --- | --- | --- | --- | --- | --- |
 | 國立政治大學<br>資訊科學系碩士在職專班 | <p style="text-align:center">2 年</p> | <h4 style="text-align:center">(30%)</h4> 計算機概論 | <h4 style="text-align:center">(40%)</h4><br>1. 學歷證明：學歷證件及最高學歷歷年成績單。<br>2. 工作經歷審核表（請至本系碩專班網頁下載）。<br>3. 研究計畫書。<br>4. 有效工作年資證明，未出具證明之工作經驗不得採計工作年資。<br>5. 專業工作表現：專業工作成就及其他足以說明個人專業工作之資料。<br>6. 推薦信（至多 2 份，無則免繳）。<br>7. 其他無法網路上傳之有助審查資料（無則免繳）：如作品集。 | <div style="text-align:center"><h4 >(40%)</h4></div> | [招生資訊](https://www.cs.nccu.edu.tw/web/enrollment/enrollment.jsp?dm_no=DM1555054693539) <br> [歷屆考古題](https://master.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E8%B3%87%E8%A8%8A%E7%A7%91%E5%AD%B8%E7%B3%BB%E7%A2%A9%E5%A3%AB&sSchool=%E5%9C%8B%E7%AB%8B%E6%94%BF%E6%B2%BB%E5%A4%A7%E5%AD%B8&sSearchView=vSearch1) |
